@@ -1,0 +1,18 @@
+.bac{
+    position: relative;
+}
+
+.bac img{
+    width: 70vw;
+    height: 100vh;
+    margin-left: 7cm;
+}
+
+.bactext{
+    position: absolute;
+    top: 0;
+    color: #fff;
+    text-align: center;
+    margin-left: 10cm;
+
+}
